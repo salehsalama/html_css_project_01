@@ -1,2 +1,2 @@
-# html_css_project_01
-HTML and CSS 01
+# html_css_project_02
+HTML and CSS 02
